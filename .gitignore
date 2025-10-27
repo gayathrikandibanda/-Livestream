@@ -1,0 +1,59 @@
+node_modules/
+dist/
+build/
+.turbo/
+.parcel-cache/
+.next/
+.vite/
+/.cache/
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+env.local
+.env.local
+.env.*.local
+.env
+.env.*
+/.idea/
+.vscode/
+.history/
+coverage/
+coverage-final.json
+/.pnp/
+*.pdb
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+repro-corpus/
+# Lockfiles (you may want to keep one based on your package manager)
+# package-lock.json
+# pnpm-lock.yaml
+# yarn.lock# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
